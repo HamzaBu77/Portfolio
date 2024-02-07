@@ -1,5 +1,5 @@
 .Contact__data{
-  border: 2px solid rgb(87, 197, 201);
+  border: 2px solid #8C52FF;
   box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
   padding: 2vw;
   margin: 10% 25%;
@@ -15,7 +15,7 @@
 
 #section__description , #section_title, .Contact_icons, #social{
   margin-bottom: 5%;
-  color: black;
+  color: white;
 }
 
 .Contact_icons{

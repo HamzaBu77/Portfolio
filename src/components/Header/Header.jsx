@@ -7,7 +7,7 @@ let Header = () => {
                 <div className="nav">
 
                     <div className="nav__logo">
-                        <a href="index.html">Zarfa</a>
+                        <a href="index.html">Hamza</a>
                     </div>
 
                     <div className="nav__menu">

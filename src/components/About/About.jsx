@@ -1,8 +1,7 @@
 import "./About.css"
-import Img from "../../assets/hero_img.jpg"
+import Img from "../../assets/hamza.png"
 import HTML from "../../assets/html.png"
 import CSS from "../../assets/css.png"
-import Bootstrap from "../../assets/Bootstrap.png"
 import React from "../../assets/react.png"
 import Javascript from "../../assets/JS.png"
 import NodeJS from "../../assets/node.png"
@@ -21,8 +20,8 @@ let About = () => {
           <div className="about__container">
             <div>
               <h1 className="title animation2">About Me</h1>
-              <p className=" about__description animation2">Hi! I'm Zarfa, an <span className="underline">experienced web developer.</span>
-                I specialize in crafting stunning, user-friendly web solutions that deliver tangible results. Additionally, I offer content creation services tailored to your website's needs. Your satisfaction is my utmost priority.</p></div>
+              <p className=" about__description animation2">Hi! I'm Hamza, a <span className="underline">skilled MERN Stack developer </span>
+               with a passion for building high-performance, data-driven web applications. I specialize in crafting pixel-perfect interfaces that are not only visually appealing but also intuitive and user-friendly, leading to increased engagement and conversions.</p></div>
           </div>
         </div>
       </section>
@@ -45,10 +44,6 @@ let About = () => {
             <img src={Javascript} alt="JavaScript"/>
             <h3 className="skills__name">Javascript</h3>
             </div>
-
-          <div className="border">
-            <img src={Bootstrap} alt="Bootstrap"/>
-            <h3 className="skills__name">Bootstrap</h3></div>
 
           <div className="border">
             <img src={React} alt="React"/>

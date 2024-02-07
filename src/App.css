@@ -69,8 +69,8 @@ textarea {
 }
 
 body {
-  background-color:rgb(190, 228, 230);
-  color: rgb(10, 10, 10);
+  background-color:black;
+  color: white;
   overflow-x: hidden;
 }
 
@@ -107,7 +107,7 @@ img {
 }
 
 .section__title {
-  color: black;
+  color: #8C52FF;
   font-size: 3vw
 }
 

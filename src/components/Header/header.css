@@ -12,13 +12,13 @@
 
 
 .nav__toggle {
-    color: black;
+    color: #8C52FF;
     font-weight: 500;
     font-size: 1vw;
 }
 
 .nav__logo a{
-    color: black;
+    color: #8C52FF;
     font-weight: 700;
     font-size: 2vw;
 }
@@ -33,13 +33,13 @@
     flex-direction: column;
     align-items: center;
     font-size: 1vw;
-    color: black;
+    color: white;
     font-weight: 500;
     transition: .3s;
 }
 
 .nav__link:hover , .nav__logo a:hover, .nav__toggle:hover{
-    color: white;
+    color: #8C52FF;
 }
 
 @media screen and (max-width:425px) {

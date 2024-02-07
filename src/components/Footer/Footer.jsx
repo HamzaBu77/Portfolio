@@ -3,7 +3,7 @@ import "./footer.css"
 
 let Footer = () =>{
     return(<div className="Footer__container">
-    <p>&copy; 2023 Zarfa</p>
+    <p>&copy; 2024 Hamza</p>
     <nav>
       <ul>
         <li><a href="index.html">Home</a></li>

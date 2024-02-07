@@ -12,16 +12,16 @@
 
 .home__social-icon{
     font-size: 1.25rem;
-    color: black
+    color: #8C52FF
 }
 
 .home__social-icon:hover{
-    color:rgb(87, 197, 201)
+    color:#8C52FF
 }
 
 .home__title{
-    font-size: 6vw;
-    color: black;
+    font-size: 5vw;
+    color: #8C52FF;
 }
 
 .icon{
